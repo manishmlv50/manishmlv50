@@ -99,7 +99,7 @@ Includes **Adioscope (journaling)** and **Vision Planner**, supported by **AI-dr
 ---
 
 ### ⚡ Fun Fact  
-When I’m not architecting systems or mentoring teams, you’ll find me exploring mindfulness, philosophy, and ways to build technology that supports human well-being.
+When I’m not building systems, you’ll find me exploring mindfulness, philosophy, and ways to build technology that supports human well-being.
 
 ---
 
