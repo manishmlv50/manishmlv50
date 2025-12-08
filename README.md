@@ -92,7 +92,7 @@ Includes **Adioscope (journaling)** and **Vision Planner**, supported by **AI-dr
 ## 🌐 Let’s Connect  
 
 - **Website:** [https://manishmlv50.com](https://manishmlv50.com)  
-- **LinkedIn:** [linkedin.com/in/manishmalviya](https://www.linkedin.com/in/manishmalviya/)  
+- **LinkedIn:** [linkedin.com/in/manishmlv50](https://www.linkedin.com/in/manishmlv50/)  
 - **GitHub:** [github.com/manishmlv50](https://github.com/manishmlv50)  
 - **Email:** [manishmlv50@gmail.com](mailto:manishmlv50@gmail.com)  
 
